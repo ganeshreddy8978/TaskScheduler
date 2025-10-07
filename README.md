@@ -1,0 +1,1 @@
+Developed a Java-based Goal Reminder application that allows users to set multiple daily goals with specific reminder times, leveraging java.time API, Timer/TimerTask, and ArrayList for scheduling and goal management, with real-time input handling, validation, and exception handling to ensure reliable reminders.
